@@ -1,2 +1,2 @@
 # Login
-Login page 
+Allows user to register and Login
